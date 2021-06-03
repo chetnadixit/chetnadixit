@@ -6,18 +6,32 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
+I am a Student currently doing Computer science and a writer too. I love programming, writing, speaking and Drawing.
 
-<!--
-**chetnadixit/chetnadixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a Programmer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I’m currently working on something cool;
+- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- 💬 Ask me about anything, I am happy to help;
+- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
+- 📫 How to reach me: gapur.kassym@gmail.com;
+- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
+
+</br>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+Python   3 hrs 29 mins   ████████████████████████░   95.93 % 
+Javascript          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+TypeScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Groovy       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+```
+<!--END_SECTION:waka-->
+
+
