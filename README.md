@@ -1,4 +1,4 @@
-## Hi there 👋 I'm <a href="https://chetna.cf" target="_blank">Chetna Dixit</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there 👋 I'm <a href="https://chetna.cf" target="_blank">Chetna Dixit</a> <img src="ht>
 
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://chetna.cf)
@@ -12,7 +12,7 @@ As a Programmer, I enjoy using my obsessive attention to detail, my unequivocal 
 
 I am Very passionate about Cybersecurity , my future goal is to complete OSCP.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.mp4/>
   
 
 **Talking about Personal Stuffs:**
