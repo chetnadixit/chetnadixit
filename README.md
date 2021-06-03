@@ -15,7 +15,8 @@ As a Programmer, I enjoy using my obsessive attention to detail, my unequivocal 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
+- 💪 I’m currently working on something cool;
+- 👩‍💻 Preparing for Bachelors in CSE
 - 🚀 I’m currently learning ReactJs on [FreeCodeCamp](https://freecodecamp.com/);
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write short notes regarding cybersecurity and infosec [Telegram](https://t.me/joinchat/TM2kMGQwiugSQSVM);
