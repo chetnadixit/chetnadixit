@@ -6,7 +6,7 @@
 
 ## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=chetnadixit)
 
-I am a Student currently doing Computer science and a writer too. I love programming, writing, speaking and Drawing.
+I am a Student currently doing Computer science and a writer too. I love programming, Cybersecurity, writing, speaking and Drawing.
 
 As a Programmer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
