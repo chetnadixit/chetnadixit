@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://chetna.cf)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/chetna_dixit)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=chetnadixit)
+## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=chetnadixit)
 
 I am a Student currently doing Computer science and a writer too. I love programming, writing, speaking and Drawing.
 
@@ -16,7 +16,7 @@ As a Programmer, I enjoy using my obsessive attention to detail, my unequivocal 
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- 🚀 I’m currently learning ReactJs[FreeCodeCamp](https://freecodecamp.com/);
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
 - 📫 How to reach me: gapur.kassym@gmail.com;
