@@ -10,6 +10,8 @@ I am a Student currently doing Computer science and a writer too. I love program
 
 As a Programmer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
+I am Very passionate about Cybersecurity , my future goal is to complete OSCP.
+
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
 
