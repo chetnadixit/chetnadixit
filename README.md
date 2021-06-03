@@ -18,7 +18,7 @@ As a Programmer, I enjoy using my obsessive attention to detail, my unequivocal 
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning ReactJs on [FreeCodeCamp](https://freecodecamp.com/);
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
+- 📝 I regulary write short notes regarding cybersecurity and infosec [Telegram](https://t.me/joinchat/TM2kMGQwiugSQSVM);
 - 📫 How to reach me: gapur.kassym@gmail.com;
 - 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
 
