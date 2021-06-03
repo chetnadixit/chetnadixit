@@ -12,7 +12,7 @@ As a Programmer, I enjoy using my obsessive attention to detail, my unequivocal 
 
 I am Very passionate about Cybersecurity , my future goal is to complete OSCP.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/chetnadixit/chetnadixit/blob/main/kitty.gif" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
