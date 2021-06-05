@@ -35,9 +35,9 @@ I am Very passionate about Cybersecurity , my future goal is to complete OSCP.
 ```text
 Python       3 hrs 29 mins    	⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜ 54%   
 Javascript   1 hrs  4 mins      ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 17%
-TypeScript         30 mins          
-Groovy             27 mins           
-Reconaissance      57 mins
+TypeScript         30 mins      ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 8%    
+Groovy             27 mins      ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 7%
+Reconaissance      57 mins      ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜      15%
 ```
 <!--END_SECTION:waka-->
 
