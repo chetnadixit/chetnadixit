@@ -33,10 +33,11 @@ I am Very passionate about Cybersecurity , my future goal is to complete OSCP.
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Python   3 hrs 29 mins   ████████████████████████░   95.93 % 
-Javascript          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-TypeScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Groovy       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Python       3 hrs 29 mins    	⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜ 54%   
+Javascript   1 hrs  4 mins      ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 17%
+TypeScript         30 mins          
+Groovy             27 mins           
+Reconaissance      57 mins
 ```
 <!--END_SECTION:waka-->
 
