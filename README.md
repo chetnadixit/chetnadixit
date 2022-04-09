@@ -26,7 +26,7 @@ I am Very passionate about Cybersecurity , my future goal is to complete OSCP.
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write short notes regarding cybersecurity and infosec [Telegram](https://t.me/joinchat/TM2kMGQwiugSQSVM);
 - 📫 How to reach me: chetnadixitt@gmail.com;
-- 📝 [Inbox Me](https://t.me/chetna_dixit).
+- 📝 [Inbox Me](https://t.me/oxchetna).
 
 </br>
 
