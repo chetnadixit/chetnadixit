@@ -21,7 +21,7 @@ I am Very passionate about Cybersecurity , my future goal is to complete OSCP.
 **Talking about Personal Stuffs:**
 
 - 💪 I’m currently working on something cool;
-- 👩‍💻 Preparing for Bachelors in CSE
+- 👩‍💻 Preparing for Bachelors in BCA
 - 🚀 I’m currently learning ReactJs on [FreeCodeCamp](https://freecodecamp.com/);
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write short notes regarding cybersecurity and infosec [Telegram](https://t.me/joinchat/TM2kMGQwiugSQSVM);
